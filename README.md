@@ -1,2 +1,2 @@
 # watermark
-A program for embeding and extracting watermark.
+A program for embedding and extracting watermark.
